@@ -26,7 +26,7 @@ sudo apt install nmap
 ### 1. Clonar o repositório
 
 ```bash
-git clone https://github.com/luks-code.py/nexfresc
+git clone https://github.com/lukscode-py/nexfresc
 cd nexfresc
 ```
 
